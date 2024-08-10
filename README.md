@@ -1,6 +1,6 @@
 ### Olá! meu nome é Vinicius Vieira 👋
 - 🔭 Não estou trabalhando ainda
-- 🌱 Estudando Javascript
+- 🌱 Estudando Javascript e Java
 - 😄 Pronouns: ele/dele
 
 <div style="display: inline_block"><br>
